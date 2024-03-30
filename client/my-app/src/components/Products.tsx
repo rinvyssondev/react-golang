@@ -52,9 +52,12 @@ export default function Products(){
                     <button className="btn-products" onClick={check}>Novo produto</button>                               
                     
             </div>            
-            </div>) : <div>
+            </div>) : <div className="bodyPage">
+                <div className="App">                
                 <h2>Listagem de Produtos</h2>
-                <Table striped bordered responsive>
+                <br />
+                <Container fluid="md">                
+                <Table bordered responsive>
                     <thead>
                         <tr>
                             <th>Nome</th>
@@ -62,6 +65,8 @@ export default function Products(){
                         </tr>
                     </thead>
                 </Table>
+                </Container>
+            </div>
             </div>
              )
                    
