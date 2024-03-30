@@ -1,0 +1,16 @@
+.btn-products {
+    background-color: green;
+    color:aliceblue;
+}
+
+.bodyPage {
+    min-height: 100vh;
+    flex-direction: column;    
+    background-color: #0822c4;
+    
+}
+
+.App {    
+    background-size: cover;
+    color: white;
+}

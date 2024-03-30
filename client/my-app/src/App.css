@@ -1,0 +1,18 @@
+.App {
+  text-align: center; 
+  color: black;
+}
+
+.Value {
+  text-align: center; 
+  border-bottom: 40px; 
+}
+
+.Name {
+  text-align: center;
+  border-bottom: 40px;
+}
+
+.Alinhamento {
+  border-bottom: 40px; 
+}
