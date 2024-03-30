@@ -36,7 +36,7 @@ Endpoints backend:
 - POST /products
 <br>
 
-Para rodar o frontend entre na pasta react/my-app e rode:
+Para rodar o frontend entre na pasta client/my-app e rode:
 </br>
 ```npm start```
 <br>
